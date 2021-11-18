@@ -14,7 +14,7 @@ public class HomeController : Controller
     }
     public IActionResult Index()
     {
-        a
+        // fix bug
         return View();
     }
 
